@@ -35,7 +35,7 @@ Feel free to click on any project folder abobe to dive deep into the methodology
 
 * Software/Web Based Mapping: ArcGIS Pro, QGIS, ArcGIS Online, ENVI, GRASS GIS, SAGA GIS, Google Earth Pro, Google Earth Engine, Mapbox, PostGIS (Spatial extension for PostgreSQL), OpenStreetMap iD Editor,USGS National Map Viewer, NASA Worldview, NOAA Digital Coast, EPA EnviroAtlas, FEMA GeoPlatform, USDA Geospatial Data Gateway, National Weather, Service GIS Portal, UN GeoHub, World Bank GeoData Portal, EU Copernicus Open Access Hub, Planet Explorer, Tableau Online (GIS mapping features), Leaflet, Esri JavaScript API, HTML/CSSMAXAR many more...
 
-* Programming/Scripting: Python (Pandas, Geopandas, ArcPy), SQL, Spider, Anaconda Navigator
+* Programming/Scripting: Python (Pandas, Geopandas, ArcPy), SQL, Spider, Anaconda Navigator, Jupiter and many more.
 
 ******
 **Connect**
