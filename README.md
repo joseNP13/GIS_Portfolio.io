@@ -23,9 +23,11 @@ Feel free to click on any project folder abobe to dive deep into the methodology
 
 * Unspervised/Supervised ( Supervised vs. Unsupervised Classification in GIS: A Clear Comparison Texas king Ranch)
 
-* GIS Map of Methodological Differences: FLAASH vs. Non‑FLAASH and QUAC vs. NON‑QUAC 
+* GIS Map of Methodological Differences: FLAASH vs. Non‑FLAASH and QUAC vs. NON‑QUAC
 
-* Many more...
+* GIS studie of B-Missions of the Vietnam War.
+
+* Many more Project Dysplay let me know building a cloud project link soon.
 
 *****
 **Tools & Technologies**
