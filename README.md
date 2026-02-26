@@ -27,7 +27,8 @@ Feel free to click on any project folder abobe to dive deep into the methodology
 
 * GIS studie of B-Missions of the Vietnam War.
 
-* Many more Project Dysplay let me know building a cloud project link soon.
+* GIS Projects ![https://drive.google.com/drive/folders/1UwgidwUjp4UcHLNyHideSMzv3r4wrcUT?usp=drive_link]
+* GIS Reasearch Papers
 
 *****
 **Tools & Technologies**
