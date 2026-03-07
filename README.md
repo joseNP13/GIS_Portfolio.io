@@ -41,7 +41,7 @@ USGS National Map, NASA Worldview, NOAA Digital Coast, EPA EnviroAtlas, FEMA Geo
 
 ---
 
-### **Connect**
+### **Connect with Me**
 I am open to discussing my work or exploring new professional opportunities.
 
-**LinkedIn:** [linkedin.com/in/jose-nieves-paugh-063aa2132](https://www.linkedin.com/in/jose-nieves-paugh-063aa2132)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-nieves-paugh-063aa2132)
