@@ -18,10 +18,13 @@ This collection demonstrates technical proficiency in:
 
 | Project Title | Core Focus | Documentation |
 | :--- | :--- | :--- |
-| **Pedestrian Safety Analysis** | Spatial mobility study (Tarrant County, TX) | [View Project]() |
-| **Land Classification Study** | Supervised vs. Unsupervised (Texas King Ranch) | [View Project]() |
-| **Atmospheric Correction** | FLAASH vs. QUAC Methodological Differences | [View Project]() |
-| **Historical GIS (H-GIS)** | Spatial analysis of B-Missions (Vietnam War) | [View Project]() |
+| **Lake Poyang Surface Loss** | Spatial mobility study (Tarrant County, TX) | [View Project](https://drive.google.com/file/d/12OSXkCs_ZAnORqfQOnYyjQ_wxzvfKm6u/view?usp=drive_link) |
+| **Deer Migration: Sussex County, NJ** | Automated wildlife connectivity using Esri ModelBuilder. | [View Project](https://drive.google.com/file/d/1TLGGP4korsO-Ju3olzzW4dPGdHZsO7Tj/view?usp=drive_link) |
+| **Mesa College LiDAR Surface Analysis** | LAS point cloud processing and surface modeling | [View Project](https://drive.google.com/file/d/1t7a8noOIGNUfyVKMO8mq_idS7GF1UEU8/view?usp=drive_link) |
+| **Landslide Risk: Sanchez Taboada, Tijuana** | Surface modeling and geomorphological hazard area analysis. | [View Project](https://drive.google.com/file/d/1_jS2aUC4ffm_jyBRvYq4QRHNdFhTQxoQ/view?usp=drive_link) |
+| **Missions of the Vietnam War 1965** | Historical strike mapping and aerial bombing analysis. (Vietnam War) | [View Project](https://drive.google.com/file/d/1_fVs4IbEq8ywfGyyVLUI6lPCejMVlc8T/view?usp=drive_link) |
+| **Real Estate Analysis: Gresham, Oregon** | Urban suitability modeling and transit-oriented demographic analysis | [View Project](https://drive.google.com/file/d/1gaYHiC1E23WyLK9NOuVkYEBmj3YrnmPA/view?usp=drive_link) |
+| **Viewshed Analysis: Chaco Culture Park** | Line-of-sight visibility and topographic raster modeling | [View Project](https://drive.google.com/file/d/1ECqvHLCfztiO2XbtWKy8yv2OVNkJiQbH/view?usp=drive_link) |
 | **GIS Research Papers** | Comprehensive library of formal research | [View All](https://drive.google.com/drive/folders/1UwgidwUjp4UcHLNyHideSMzv3r4wrcUT?usp=drive_link) |
 
 ---
