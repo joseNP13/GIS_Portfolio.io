@@ -18,10 +18,10 @@ This collection demonstrates technical proficiency in:
 
 | Project Title | Core Focus | Documentation |
 | :--- | :--- | :--- |
-| **Pedestrian Safety Analysis** | Spatial mobility study (Tarrant County, TX) | [View Project](https://drive.google.com/drive/folders/1UwgidwUjp4UcHLNyHideSMzv3r4wrcUT?usp=drive_link) |
-| **Land Classification Study** | Supervised vs. Unsupervised (Texas King Ranch) | [View Project](https://drive.google.com/drive/folders/1UwgidwUjp4UcHLNyHideSMzv3r4wrcUT?usp=drive_link) |
-| **Atmospheric Correction** | FLAASH vs. QUAC Methodological Differences | [View Project](https://drive.google.com/drive/folders/1UwgidwUjp4UcHLNyHideSMzv3r4wrcUT?usp=drive_link) |
-| **Historical GIS (H-GIS)** | Spatial analysis of B-Missions (Vietnam War) | [View Project](https://drive.google.com/drive/folders/1UwgidwUjp4UcHLNyHideSMzv3r4wrcUT?usp=drive_link) |
+| **Pedestrian Safety Analysis** | Spatial mobility study (Tarrant County, TX) | [View Project]() |
+| **Land Classification Study** | Supervised vs. Unsupervised (Texas King Ranch) | [View Project]() |
+| **Atmospheric Correction** | FLAASH vs. QUAC Methodological Differences | [View Project]() |
+| **Historical GIS (H-GIS)** | Spatial analysis of B-Missions (Vietnam War) | [View Project]() |
 | **GIS Research Papers** | Comprehensive library of formal research | [View All](https://drive.google.com/drive/folders/1UwgidwUjp4UcHLNyHideSMzv3r4wrcUT?usp=drive_link) |
 
 ---
