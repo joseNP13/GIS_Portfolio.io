@@ -25,7 +25,8 @@ This collection demonstrates technical proficiency in:
 | **Missions of the Vietnam War 1965** | Historical strike mapping and aerial bombing analysis. (Vietnam War) | [📂 View Project](https://drive.google.com/file/d/1_fVs4IbEq8ywfGyyVLUI6lPCejMVlc8T/view?usp=drive_link) |
 | **Real Estate Analysis: Gresham, Oregon** | Urban suitability modeling and transit-oriented demographic analysis | [📂 View Project](https://drive.google.com/file/d/1gaYHiC1E23WyLK9NOuVkYEBmj3YrnmPA/view?usp=drive_link) |
 | **Viewshed Analysis: Chaco Culture Park** | Line-of-sight visibility and topographic raster modeling | [📂 View Project](https://drive.google.com/file/d/1ECqvHLCfztiO2XbtWKy8yv2OVNkJiQbH/view?usp=drive_link) |
-| **GIS Research Papers** | Comprehensive library of formal research | [📚 View All](https://drive.google.com/drive/folders/1UwgidwUjp4UcHLNyHideSMzv3r4wrcUT?usp=drive_link) |
+| **GIS Research Papers** | Comprehensive Library of Formal Research | [📚 View All](https://drive.google.com/drive/folders/1UwgidwUjp4UcHLNyHideSMzv3r4wrcUT?usp=drive_link) |
+| **GIS Certification** | Certification Library | [📜 CERTs Here](https://drive.google.com/drive/folders/1rGrqZ1Kt6uLftVivOxuKrDFBzlhc754a?usp=drive_link) |
 
 ---
 
